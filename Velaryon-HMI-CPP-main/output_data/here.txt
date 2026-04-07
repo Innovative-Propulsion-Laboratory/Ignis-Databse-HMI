@@ -1,0 +1,2 @@
+This file is intentionally left here to ensure the directory exists in the git repository.
+You can safely ignore or delete its contents, but avoid removing the file itself.

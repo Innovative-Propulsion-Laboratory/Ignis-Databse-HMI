@@ -1,0 +1,14 @@
+*.pro.user
+build
+*.stash
+*.Debug
+*.Release
+Release
+debug
+*.csv
+*.qtc_clangd
+*.txt
+!here.txt
+*.o
+Makefile
+*.csv

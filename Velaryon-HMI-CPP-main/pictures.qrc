@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ressources">
+        <file>pictures/Arrax_cooling.png</file>
+        <file>pictures/Arrax_engine.png</file>
+        <file>pictures/Arrax_igniter.png</file>
+        <file>pictures/arrow_down.png</file>
+        <file>pictures/arrow_up.png</file>
+        <file>pictures/Logo_Arrax.png</file>
+        <file>pictures/Logo_IPL.png</file>
+    </qresource>
+</RCC>
